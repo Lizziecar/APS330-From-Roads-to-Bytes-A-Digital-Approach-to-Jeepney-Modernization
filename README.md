@@ -3,4 +3,4 @@ A project with How To Change The World to improve Jeepney systems in the Philipp
 
 This is a collection of project documents originally attatched to a Notion page that has now been deleted. All work was done by a group of team members from across Ontario Universtities:
 
-Joaquin Arcilla | Kayleigh Dunphy | Patricia Giurca | Yanujan Shandrasekaram
+![Poster](main.jpg)
